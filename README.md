@@ -88,3 +88,12 @@ Cybersecurity-Threat-Analysis-Dashboard
 5. Open the Jupyter Notebook in the `python` folder to understand the data cleaning and exploratory data analysis process.
 
 ---
+## 👨‍💻 Author
+
+**Atharva Ghorpade**
+
+- 🎓 Computer Engineering Student
+- 📊 Passionate about Data Analytics, SQL, Python, Power BI, and Business Intelligence.
+- 🌱 Currently building real-world Data Analytics projects to strengthen practical skills and create a professional portfolio.
+
+---
