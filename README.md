@@ -13,3 +13,11 @@ An interactive Cybersecurity Threat Analysis Dashboard built using **SQL, Python
 This project analyzes cybersecurity incidents using SQL, Python, DAX, and Power BI to identify attack trends, critical incidents, data theft patterns, and severity levels. The dashboard enables users to explore the data interactively through dynamic filters and KPI cards, making it easier to monitor cybersecurity risks and support data-driven decision-making.
 
 ---
+## 🛠️ Tech Stack
+
+- **SQL** – Data querying and analysis
+- **Python** – Data cleaning and exploratory data analysis (Pandas, NumPy, Matplotlib)
+- **Power BI** – Interactive dashboard creation and visualization
+- **DAX** – KPI calculations and custom measures
+
+---
