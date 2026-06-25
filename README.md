@@ -58,3 +58,12 @@ Cybersecurity-Threat-Analysis-Dashboard
 ```
 
 ---
+## 📈 Key Insights
+
+- Critical incidents represent a significant portion of the total cybersecurity incidents.
+- Data theft incidents account for approximately **9.77%** of all reported incidents.
+- Attack trends vary across different years and months, helping identify high-risk periods.
+- Interactive filters allow users to analyze incidents by **Attack Type**, **Attack Severity**, and **Year**.
+- KPI cards provide a quick overview of the organization's cybersecurity posture.
+
+---
