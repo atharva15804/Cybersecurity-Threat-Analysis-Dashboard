@@ -79,3 +79,12 @@ Cybersecurity-Threat-Analysis-Dashboard
 - Analytical Thinking and Decision Support
 
 ---
+## 🚀 How to Run the Project
+
+1. Clone this repository.
+2. Open the `powerbi` folder and launch the `.pbix` file using Microsoft Power BI Desktop.
+3. Explore the dashboard using the interactive filters.
+4. Review the SQL queries in the `sql` folder.
+5. Open the Jupyter Notebook in the `python` folder to understand the data cleaning and exploratory data analysis process.
+
+---
