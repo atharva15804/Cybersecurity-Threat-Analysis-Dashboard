@@ -67,3 +67,15 @@ Cybersecurity-Threat-Analysis-Dashboard
 - KPI cards provide a quick overview of the organization's cybersecurity posture.
 
 ---
+## 💡 Skills Demonstrated
+
+- Data Cleaning and Preprocessing using Python
+- SQL Data Analysis and Query Optimization
+- Exploratory Data Analysis (EDA)
+- DAX Measure Creation
+- Interactive Dashboard Design in Power BI
+- KPI Design and Business Intelligence Reporting
+- Data Visualization and Storytelling
+- Analytical Thinking and Decision Support
+
+---
