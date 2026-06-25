@@ -32,3 +32,29 @@ This project analyzes cybersecurity incidents using SQL, Python, DAX, and Power 
 - ⚡ Dynamic filtering across all visuals.
 
 ---
+## 📂 Project Structure
+
+```text
+Cybersecurity-Threat-Analysis-Dashboard
+│
+├── dataset
+│   ├── cybersecurity_dataset.csv
+│   └── cybersecurity_cleaned.csv
+│
+├── powerbi
+│   └── cybersecurity.pbix
+│
+├── python
+│   └── cybersecurity_eda.ipynb
+│
+├── screenshots
+│   ├── dashboard_screenshot.png
+│   └── dashboard_filtered_2024.png
+│
+├── sql
+│   └── cybersecurity_analysis.sql
+│
+└── README.md
+```
+
+---
