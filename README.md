@@ -21,3 +21,14 @@ This project analyzes cybersecurity incidents using SQL, Python, DAX, and Power 
 - **DAX** – KPI calculations and custom measures
 
 ---
+## ✨ Dashboard Features
+
+- 📌 Interactive KPI cards showing Total Incidents, Critical Incidents, Data Theft Cases, Data Theft Percentage, and Unique Attack Types.
+- 📊 Attack Type Distribution using horizontal bar charts.
+- 📈 Incident Severity Analysis using column charts.
+- 🥧 Data Theft Analysis using a pie chart.
+- 📅 Yearly and Monthly Incident Trend analysis.
+- 🎛️ Interactive slicers for Attack Type, Attack Severity, and Year.
+- ⚡ Dynamic filtering across all visuals.
+
+---
